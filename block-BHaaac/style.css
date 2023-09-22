@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+h1{
+    color: red;
+    font-size:18px;
+}
+.myclass{
+    color: blue;
+    font-size:25px ;
+}
+#myid{
+    color: wheat;
+    font-size:28px;
+}
